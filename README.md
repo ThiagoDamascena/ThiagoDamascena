@@ -60,8 +60,8 @@ Tenho interesse em **arquitetura de software, infraestrutura, tecnologias open s
 ## 📊 GitHub Status
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoDamascena&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDamascena&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDamascena&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDamascena&layout=compact&theme=tokyonight" />
 </p>
 
 ---
