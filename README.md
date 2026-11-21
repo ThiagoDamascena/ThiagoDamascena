@@ -16,7 +16,7 @@ Tenho interesse em **arquitetura de software, infraestrutura, tecnologias open s
   <a href="https://github.com/ThiagoDamascena">
     <img src="https://img.shields.io/badge/GitHub-ThiagoDamascena-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/damascenatkd">
     <img src="https://img.shields.io/badge/Instagram-@damascenatkd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </a>
